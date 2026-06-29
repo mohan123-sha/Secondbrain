@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "xrs4rbxm41njtc4tmz6erztyz8ubrpn0",
+    "clientSecret": "CZhQi7yLfz5775zDY7wQHDqccwkzpSGz",
+    "appAuth": {
+      "publicKeyID": "ifnimxtb",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFNTBfBgkqhkiG9w0BBQ0wUjAxBgkqhkiG9w0BBQwwJAQQGVLzCNZfOcIeF85n\nXXmEvwICCAAwDAYIKoZIhvcNAgkFADAdBglghkgBZQMEASoEEFfaqE0rF1/Ies40\n+YA6u00EggTQT/cqpU+PEEb6fUo1ar4h7UsAHg2/eUQJ4WFSxgIGTDXkBgWuRflR\nX21eFvJb5UxtoewaPk22VDqch9VcQ9WyugwdpxZ05v+lOKpeg6XjXIQ0w7RiZ7ms\npPl3XVSmfcYE7ee4jW0aaFNL0+dYeX6fb/a0CJmXV0k905plp7HloS2tW6Z9GwRy\nIA9409MS2ZoQ3es9jl9ByYG+8+pBGUNOuR6szfWtVnasLf+KgU4ZW7Kz10ZceAx8\nrr3ksiXpNS2jOSWx7FMm2Wgk8kgRlplJCYquXjQIve1SeGonXBN+svPDXhBZEOJ9\n+a4zD7R8S7IXu6NzgLR+lsqMcHz5rN36+PWkxn/mPST9icuKaL3mCtIjfh2vKUfZ\nlBnYYoqA6nQ+nW3u8r5B5MjmUDoC2M1DPZKy+K4dHDzq8D636jQ+UzjPLAJsQ6xz\nRvski0l8dXqpSoUplUUbhLK9IasHttz/Odr3H4km4QQm0s1PyhyeTs5oQtzUthB7\n+EPYg/gIfi2uq4L3L17Gm3jArytfbsz4nx6LHaeyUMX/0kqXZskdU2YMoAEjLJ1+\nhym6UKQZjyGI8wylbiAJ0X01liCQEoEY0enQ1xUMyQP54MWmlUHmOC3Q2v7jhVbw\nRIISh2IyOoEpvKAlqjwnbSuWF3IzR0bOxPVZ668kwVd29vRH3t7y4LYMxSRwtyte\nyHsz52lBSrhOk7yvg2HJNYZNGg4Hbx6q8ke4ygxOpNmP3fNE4K8WC4OvLb5HK+q3\npKiURqkhzqj4qD/QfIuiRBwlsbwa3FVz5TYsltvAVMNoG78VDrXnHu1hMaMrABLJ\nF/KCof05aick2O6uWPIzQev9/zYXGskt6HZhi6gcbLJX9Yv4fSWoka6jANeGyi0d\nmBp7Li5N8D1vNtKRIAQfzbepVop7xxMfyMhZbR8K/80ov7iebDghxgB0yVW3Vtcj\n0zGpu/HT0lRVMtoK/IPvtUd0z6LWuTnaEEV5x88/nXB1h94ayog39ySCbfYDVb0T\n5Np7+R/jCo8H6g9soMWdOez9NC/EBlVsGveCBgRiHuZiLzPsRgDNgcwgleGl4k9W\n08/Kf2WCk/3N4BP41Xjxyuz10pOeXKjogbEG9EMpnl/Ky4GnVObt23hmhr9MoDyu\nMqtjAW09EH8JpqjguNFlsi2qe3f70TAHGu3QW4cDVE9U7QhXU/jqHJRr2ldn2Em/\nTy0bb4JstTbv127i2OeyhuEZKprovqiKgVvFLvJlRKGXVuB6S1lU5XBnIJ3Vn+79\nP+4Lt7GZqzhVQqVVHviAX+xzgBYkm6Iw989jQ6idBkFSScrMjPWJ4bq7avJM54sn\nX2bGReN69ktq16pr3Y7TWyMpI2wwXf8e7wTPe25RowQeQRxobwnze/TdPDKfNK4a\nz1MsMmFwKnpKcD3EXxNfet5dAjlNsoL+VUY6NfcCg0x+EgsbHQk1mtv+t40SE91+\nIA3PRpdhkusjXJE00oQppchnj2eYd0qLBdTnvWbb6B9EJ0G3iGnZFKNrYS8aRrEi\nyZEqhGxJMH+960Wj67tFkfo12YL42FLUWPundQUT9ICyxNZTHYvSTHkxuulCkdjS\nNyc1rR76ukzsvlYGr7luFlXfnnvjbjyHkfSfiLzo8yc/I/eUJ1j5Vso=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "d4cb8793c3dbf471a343a80803e6a3df"
+    }
+  },
+  "enterpriseID": "1303009597"
+}
