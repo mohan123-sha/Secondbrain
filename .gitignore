@@ -1,0 +1,30 @@
+# Environments
+.env
+.env.*
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Node / JS
+node_modules/
+dist/
+build/
+.npm/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+*.sqlite3
+*.db
